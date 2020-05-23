@@ -1,2 +1,3 @@
 # Lasso_and_adaLasso
-Implementation of lasso and adaptive lasso
+Implementation of lasso and adaptive lasso.
+Matlab code.
